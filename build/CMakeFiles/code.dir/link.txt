@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -Wall -Wextra CMakeFiles/code.dir/src/main.cpp.o -o code 
